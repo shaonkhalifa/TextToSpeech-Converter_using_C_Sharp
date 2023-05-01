@@ -1,0 +1,11 @@
+C:\Users\mdsha\OneDrive\Desktop\Task\Simple_TTS\Simple_TTS\bin\Debug\Simple_TTS.exe.config
+C:\Users\mdsha\OneDrive\Desktop\Task\Simple_TTS\Simple_TTS\bin\Debug\Simple_TTS.exe
+C:\Users\mdsha\OneDrive\Desktop\Task\Simple_TTS\Simple_TTS\bin\Debug\Simple_TTS.pdb
+C:\Users\mdsha\OneDrive\Desktop\Task\Simple_TTS\Simple_TTS\obj\Debug\Simple_TTS.csproj.AssemblyReference.cache
+C:\Users\mdsha\OneDrive\Desktop\Task\Simple_TTS\Simple_TTS\obj\Debug\Simple_TTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdsha\OneDrive\Desktop\Task\Simple_TTS\Simple_TTS\obj\Debug\Simple_TTS.Form1.resources
+C:\Users\mdsha\OneDrive\Desktop\Task\Simple_TTS\Simple_TTS\obj\Debug\Simple_TTS.Properties.Resources.resources
+C:\Users\mdsha\OneDrive\Desktop\Task\Simple_TTS\Simple_TTS\obj\Debug\Simple_TTS.csproj.GenerateResource.cache
+C:\Users\mdsha\OneDrive\Desktop\Task\Simple_TTS\Simple_TTS\obj\Debug\Simple_TTS.csproj.CoreCompileInputs.cache
+C:\Users\mdsha\OneDrive\Desktop\Task\Simple_TTS\Simple_TTS\obj\Debug\Simple_TTS.exe
+C:\Users\mdsha\OneDrive\Desktop\Task\Simple_TTS\Simple_TTS\obj\Debug\Simple_TTS.pdb
